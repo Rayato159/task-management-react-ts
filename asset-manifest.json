@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tasks-app/static/css/main.66e3ecc7.css",
+    "main.js": "/tasks-app/static/js/main.9d81079c.js",
+    "static/js/787.98fa670f.chunk.js": "/tasks-app/static/js/787.98fa670f.chunk.js",
+    "index.html": "/tasks-app/index.html",
+    "main.66e3ecc7.css.map": "/tasks-app/static/css/main.66e3ecc7.css.map",
+    "main.9d81079c.js.map": "/tasks-app/static/js/main.9d81079c.js.map",
+    "787.98fa670f.chunk.js.map": "/tasks-app/static/js/787.98fa670f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e3ecc7.css",
+    "static/js/main.9d81079c.js"
+  ]
+}
